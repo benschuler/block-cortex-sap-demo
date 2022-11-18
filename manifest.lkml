@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "cortex-demo-environment-otc"
+  value: "cortex-demo-environment"
   export: override_required
 }
 
